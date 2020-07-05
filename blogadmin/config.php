@@ -2,7 +2,7 @@
 	$dbServer = 'localhost';
 	$dbUsername = 'root';
 	$dbPassword = '';
-	$dbDatabase = 'blog_admin_db';
+	$dbDatabase = 'artikance_uat';
 
 	$adminConfig = array(
 		'adminUsername' => "admin",
@@ -22,7 +22,7 @@
 		'PHPDateFormat' => "n/j/Y",
 		'PHPDateTimeFormat' => "m/d/Y, h:i a",
 		'senderName' => "Membership management",
-		'senderEmail' => "info@artikance.tk",
+		'senderEmail' => "team@artikance.tk",
 		'approvalSubject' => "Your membership is now approved",
 		'approvalMessage' => "Dear member,\r\n\r\nYour membership is now approved by the admin. You can log in to your account here:\r\nhttp://localhost/blogadmin\r\n\r\nRegards,\r\nAdmin",
 		'hide_twitter_feed' => "",

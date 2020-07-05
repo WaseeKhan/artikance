@@ -18,6 +18,7 @@
 						<a href="blogadmin/membership_signup.php">
 							<i class="far fa-user"></i> <strong>Join Us</strong></a>
 					</span>
+					<marquee><p style='color:red; font-weight:bold;'> We are now serving to angels. We will be back to serve humans shortly. &#128540</p></marquee>
 				</div>
 				<div class="col-md-4 log-icons text-right">
 

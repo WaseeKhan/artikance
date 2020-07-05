@@ -4,7 +4,7 @@
 
 // DB CONNECT INFO
 $db_host = "localhost";
-$db_name = "artikance";
+$db_name = "artikance_uat";
 $db_user = "root";
 $db_pw = "";
 

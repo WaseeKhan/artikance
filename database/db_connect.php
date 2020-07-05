@@ -1,5 +1,5 @@
 <?php
-$con=mysqli_connect("localhost","root","","artikance");
+$con=mysqli_connect("localhost","root","","artikance_uat");
 // Check connection
 if (mysqli_connect_errno())
   {
