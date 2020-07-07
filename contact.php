@@ -47,8 +47,7 @@
 		<p class="sub text-center">We love to discuss your idea</p>
 		<div class="contact-map inner-sec">
 
-			<iframe src="<?php getcontacts("titles","4");?>"
-				class="map" style="border:0" allowfullscreen=""></iframe>
+			<div style="width: 100%"><iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=300&amp;hl=en&amp;q=artikance+(Artikance)&amp;t=p&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="http://www.gps.ie/">GPS coordinates</a></div>
 			</div>
 			<div class="ad-inf-sec bg-light">
 				<div class="container">
