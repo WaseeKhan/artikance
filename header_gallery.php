@@ -54,7 +54,7 @@
 				<nav class="navbar navbar-expand-lg navbar-light bg-light">
 					<button class="navbar-toggler navbar-toggler-right mx-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
 						aria-expanded="false" aria-label="Toggle navigation">
-						<span class="navbar-toggler-icon">dsd</span>
+						<span class="navbar-toggler-icon"></span>
 				   </button>
 
 
@@ -69,7 +69,7 @@
 							<li class="nav-item dropdown">
 								<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
 								    aria-expanded="false">
-									Artikance Posts
+									Artikance
 								</a>
 								<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 									<a class="dropdown-item" href="#"></a>
@@ -85,6 +85,10 @@
 
 							<li class="nav-item">
 								<a class="nav-link" href="services.php">Services</a>
+							</li>
+
+							<li class="nav-item">
+								<a class="nav-link" href="students_corner.php">Students Corner</a>
 							</li>
                                                         <li class="nav-item">
 								<a class="nav-link" href="team.php">Our Team</a>

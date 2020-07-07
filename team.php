@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-	<title><?php getwebname("titles"); echo"|"; gettagline("titles");?>| About</title>
+	<title><?php getwebname("titles"); echo"|"; gettagline("titles");?>| Our Team</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
 	<link id="browser_favicon" rel="shortcut icon" href="blogadmin/images/<?php geticon("titles"); ?>">
